@@ -1,0 +1,11 @@
+{
+  "name": "backup-restore",
+  "version": "0.1.0",
+  "description": "Backup and restore",
+  "author": "Anielkis Herrera",
+  "private": true,
+  "dependencies": {
+    "couchdb-backup-restore": "^1.1.5",
+    "couchdb-dump": "^2.2.1"
+  }
+}
